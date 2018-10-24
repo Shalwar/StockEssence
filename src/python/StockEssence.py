@@ -22,7 +22,9 @@ from kivy.config import Config
 from kivy.app import App
 from kivy.uix.widget import Widget
 from kivy.uix.floatlayout import FloatLayout
+from kivy.uix.button import Button
 from kivy.core.text import LabelBase
+from kivy.properties import StringProperty
 
 kivy.require('1.10.1')
 
