@@ -3,3 +3,7 @@
 src/__pycache__/*
 *.pyc
 src/companydata.json
+/src/java/JavaFXApplication8/nbproject/private/
+/src/java/build/
+/src/java/dist/
+/src/java/nbproject/private/
